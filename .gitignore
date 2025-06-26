@@ -1,0 +1,14 @@
+# Compiled class files
+bin/
+*.class
+
+# Eclipse specific files
+.settings/
+.project
+.classpath
+
+# macOS system files
+.DS_Store
+
+# VSCode
+.vscode/
