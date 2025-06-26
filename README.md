@@ -74,7 +74,7 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 
 ## 👨‍💻 Author
 
-- **Jakub Kania** — [GitHub Profile](https://github.com/SXaifr-byte)
+- **Jakub Kania** — [GitHub Profile](https://github.com/SXafir-byte)
 
 ---
 
